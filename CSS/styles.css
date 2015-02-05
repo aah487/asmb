@@ -1,0 +1,60 @@
+html{
+	background-color: white;
+
+
+}
+
+#head{
+text-align: center;
+font-size: 35pt;
+
+}
+body{
+        height: 100%;
+        
+
+}
+#banner{
+
+color:black;
+text-align:center;
+padding: 5px;
+margin-top: 35px;
+height: 200px;
+margin left:10px;
+margin-right: 10px;
+font-size: 15pt;
+
+}
+
+#right{
+ width: 350px;
+ height: 500px;
+ margin: 10px;
+ 
+ font-size: 15pt;
+ text-align: center;
+ float: left;
+ padding: 5px;
+
+
+}
+
+.image{
+margin-top: 30px;
+float: left;
+margin: 20px;
+}
+
+#left{
+width: 350px;
+ height: 500px;
+ margin: 10px;
+ text-align: center; 
+ font-size: 15pt;
+ text-align: ;
+ float: left;
+ padding: 5px;
+
+
+}
